@@ -1,0 +1,26 @@
+def envName = "stage"
+def project = "alan-stage"
+def pipelineDir = "Deloitte"
+def mainRepoDir = pipelineDir
+def buildPrefix = "android-sdk"
+def branch = env.BRANCH_NAME ? env.BRANCH_NAME : 'master'
+
+timestamps {
+  node {
+    stage("checkout $pipelineDir") {
+      sh """
+        shopt -s extglob dotglob
+        rm -rf *
+        shopt -u dotglob
+      """
+      dir(pipelineDir) {
+        checkout scm
+        sh "git lfs pull"
+        sh "git rev-parse HEAD"
+      }
+    }
+    withEnv(["BRANCH_NAME=${branch}", "ENV_NAME=${envName}", "GOOGLE_PROJECT_ID=${project}", "SUFFIX=${buildPrefix}-${branch}-${env.BUILD_NUMBER}", "MAIN_REPO_DIR=${mainRepoDir}", "EXTRA_MESSAGE=", "RESP_USER_LIST=<@UDPFLKTM4> @evgeny"]) {
+      load "${pipelineDir}/restaurant-demo/jenkins-pipeline.groovy"
+    }
+  }
+}

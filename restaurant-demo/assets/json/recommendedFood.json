@@ -1,0 +1,22 @@
+{
+  "recommendedFood": [
+    {
+      "name": "Arabian Beef Sushi Kabab",
+      "time": "30 Min",
+      "serving": "1 serving",
+      "image": "food1.png"
+    },
+    {
+      "name": "Chicken Slided Cheese Pizza",
+      "time": "25 Min",
+      "serving": "2 serving",
+      "image": "food2.png"
+    },
+    {
+      "name": "Shrimp Fried Rice",
+      "time": "35 Min",
+      "serving": "1 serving",
+      "image": "food1.png"
+    }
+  ]
+}

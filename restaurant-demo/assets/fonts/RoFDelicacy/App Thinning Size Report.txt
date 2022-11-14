@@ -1,0 +1,204 @@
+
+App Thinning Size Report for All Variants of RoFDelicacy
+
+Variant: RoFDelicacy-0B809DB0-480A-45EC-B5B1-CE53D562F03C.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], [device: iPhone9,3, os-version: 12.2], and [device: iPhone10,4, os-version: 12.2]
+App + On Demand Resources size: 3.9 MB compressed, 15.7 MB uncompressed
+App size: 3.9 MB compressed, 15.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-0CDA56C6-E86F-4268-9815-65D59A646F8B.ipa
+Supported variant descriptors: [device: iPad6,4, os-version: 12.0], [device: iPad8,6, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad7,3, os-version: 12.0], and [device: iPad7,2, os-version: 12.0]
+App + On Demand Resources size: 6.4 MB compressed, 23.4 MB uncompressed
+App size: 6.4 MB compressed, 23.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-0FDB1E86-2843-4215-BC11-7C0FDED14296.ipa
+Supported variant descriptors: [device: iPad4,9, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad6,11, os-version: 12.0], and [device: iPad5,3, os-version: 12.0]
+App + On Demand Resources size: 6.4 MB compressed, 23.4 MB uncompressed
+App size: 6.4 MB compressed, 23.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-1C9AB6AB-241A-4FE7-AFF7-876F1BFC4D37.ipa
+Supported variant descriptors: [device: iPhone12,3, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone12,5, os-version: 14.0], and [device: iPhone13,4, os-version: 14.0]
+App + On Demand Resources size: 4 MB compressed, 15.8 MB uncompressed
+App size: 4 MB compressed, 15.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-206C912E-B3FC-48BE-BDFC-685DF5A1ADF4.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 13.0], [device: iPhone11,8, os-version: 13.0], [device: iPhone12,1, os-version: 14.0], and [device: iPhone11,8, os-version: 14.0]
+App + On Demand Resources size: 4 MB compressed, 15.8 MB uncompressed
+App size: 4 MB compressed, 15.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-4FAE128D-026C-4EE7-96AF-185E2016056D.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 15.0], [device: iPhone10,5, os-version: 15.0], [device: iPhone14,3, os-version: 15.0], [device: iPhone9,4, os-version: 15.0], [device: iPhone12,5, os-version: 15.0], [device: iPhone10,3, os-version: 15.0], [device: iPhone12,3, os-version: 15.0], [device: iPhone10,6, os-version: 15.0], [device: iPhone9,2, os-version: 15.0], [device: iPhone11,6, os-version: 15.0], [device: iPhone14,5, os-version: 15.0], [device: iPhone14,4, os-version: 15.0], [device: iPhone11,2, os-version: 15.0], [device: iPhone14,2, os-version: 15.0], [device: iPhone13,4, os-version: 15.0], [device: iPhone13,1, os-version: 15.0], [device: iPhone13,2, os-version: 15.0], [device: iPhone13,3, os-version: 15.0], and [device: iPhone11,4, os-version: 15.0]
+App + On Demand Resources size: 4 MB compressed, 15.8 MB uncompressed
+App size: 4 MB compressed, 15.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-5AE70E0E-9E80-4E9D-810F-76505801DDCA.ipa
+Supported variant descriptors: [device: iPhone6,2, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], [device: iPod7,1, os-version: 12.0], and [device: iPhone6,1, os-version: 12.0]
+App + On Demand Resources size: 6.4 MB compressed, 23.4 MB uncompressed
+App size: 6.4 MB compressed, 23.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-5CF2B29B-D79C-4A6B-B950-6B7FAE68EA94.ipa
+Supported variant descriptors: [device: iPad7,4, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad8,2, os-version: 12.2], and [device: iPad8,6, os-version: 12.2]
+App + On Demand Resources size: 3.9 MB compressed, 15.7 MB uncompressed
+App size: 3.9 MB compressed, 15.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-62A2996D-5CF4-4D44-8F5B-AED13EBE3A93.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 13.0], [device: iPhone8,1, os-version: 13.0], [device: iPhone8,4, os-version: 14.0], [device: iPhone8,1, os-version: 14.0], [device: iPod9,1, os-version: 14.0], and [device: iPod9,1, os-version: 13.0]
+App + On Demand Resources size: 3.9 MB compressed, 15.7 MB uncompressed
+App size: 3.9 MB compressed, 15.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-6338189C-5F00-41B7-AA70-3D96EFA15706.ipa
+Supported variant descriptors: [device: iPad8,2, os-version: 13.0], [device: iPad11,4, os-version: 14.0], [device: iPad13,11, os-version: 14.0], [device: iPad8,3, os-version: 13.0], [device: iPad7,2, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad6,3, os-version: 13.0], [device: iPad8,9, os-version: 13.0], [device: iPad8,7, os-version: 14.0], [device: iPad11,1, os-version: 13.0], [device: iPad8,5, os-version: 14.0], [device: iPad13,6, os-version: 14.0], [device: iPad8,6, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad7,4, os-version: 14.0], [device: iPad13,7, os-version: 14.0], [device: iPad8,1, os-version: 14.0], [device: iPad11,4, os-version: 13.0], [device: iPad7,1, os-version: 14.0], [device: iPad13,8, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad13,1, os-version: 14.0], [device: iPad7,1, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad8,12, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad11,3, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad7,3, os-version: 13.0], [device: iPad6,4, os-version: 14.0], [device: iPad13,9, os-version: 14.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,11, os-version: 14.0], [device: iPad13,5, os-version: 14.0], [device: iPad8,4, os-version: 13.0], [device: iPad8,4, os-version: 14.0], [device: iPad7,4, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad13,2, os-version: 14.0], [device: iPad8,10, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad8,3, os-version: 14.0], [device: iPad6,4, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad8,11, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad8,2, os-version: 14.0], [device: iPad13,4, os-version: 14.0], [device: iPad13,10, os-version: 14.0], and [device: iPad8,10, os-version: 13.0]
+App + On Demand Resources size: 3.9 MB compressed, 15.7 MB uncompressed
+App size: 3.9 MB compressed, 15.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-76C17E7E-E516-4151-A065-AD227367E768.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], and [device: iPhone10,5, os-version: 12.0]
+App + On Demand Resources size: 6.5 MB compressed, 23.4 MB uncompressed
+App size: 6.5 MB compressed, 23.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-7B01C072-B806-4696-A75A-D16ACE946CF6.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.2] and [device: iPhone8,2, os-version: 12.2]
+App + On Demand Resources size: 4 MB compressed, 15.8 MB uncompressed
+App size: 4 MB compressed, 15.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-7C45DD64-04DD-463F-8358-BDE68369C241.ipa
+Supported variant descriptors: [device: iPod9,1, os-version: 15.0], [device: iPhone8,4, os-version: 15.0], and [device: iPhone8,1, os-version: 15.0]
+App + On Demand Resources size: 3.9 MB compressed, 15.7 MB uncompressed
+App size: 3.9 MB compressed, 15.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-8015DC9D-683C-4A3B-B348-D3332C4F7448.ipa
+Supported variant descriptors: [device: iPad12,2, os-version: 15.0], [device: iPad6,12, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad12,1, os-version: 15.0], [device: iPad6,7, os-version: 15.0], [device: iPad5,1, os-version: 15.0], [device: iPad7,6, os-version: 15.0], [device: iPad5,3, os-version: 15.0], [device: iPad6,11, os-version: 15.0], [device: iPad7,5, os-version: 15.0], [device: iPad11,6, os-version: 15.0], [device: iPad5,4, os-version: 15.0], [device: iPad11,7, os-version: 15.0], [device: iPad7,12, os-version: 15.0], [device: iPad6,8, os-version: 15.0], and [device: iPad7,11, os-version: 15.0]
+App + On Demand Resources size: 3.9 MB compressed, 15.7 MB uncompressed
+App size: 3.9 MB compressed, 15.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-81174A61-9FF5-4E9B-84D3-04413DC94306.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 13.0] and [device: iPhone8,2, os-version: 14.0]
+App + On Demand Resources size: 4 MB compressed, 15.8 MB uncompressed
+App size: 4 MB compressed, 15.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-96A531A4-22B5-458F-A16B-72AE5155E1E1.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 15.0]
+App + On Demand Resources size: 4 MB compressed, 15.8 MB uncompressed
+App size: 4 MB compressed, 15.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-9A16203E-2A96-408A-80C1-0A0045CD02CD.ipa
+Supported variant descriptors: [device: iPhone11,4, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], and [device: iPhone11,6, os-version: 12.2]
+App + On Demand Resources size: 4 MB compressed, 15.8 MB uncompressed
+App size: 4 MB compressed, 15.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-BE227183-39A6-49E1-B730-3A4C56C5F161.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 15.0], [device: iPhone10,1, os-version: 15.0], [device: iPhone10,4, os-version: 15.0], [device: iPhone14,6, os-version: 15.0], [device: iPhone12,8, os-version: 15.0], and [device: iPhone9,1, os-version: 15.0]
+App + On Demand Resources size: 3.9 MB compressed, 15.7 MB uncompressed
+App size: 3.9 MB compressed, 15.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-C0472249-589E-4F8D-B152-6577AADBE373.ipa
+Supported variant descriptors: [device: iPad11,4, os-version: 15.0], [device: iPad8,8, os-version: 15.0], [device: iPad13,17, os-version: 15.0], [device: iPad6,4, os-version: 15.0], [device: iPad11,2, os-version: 15.0], [device: iPad7,2, os-version: 15.0], [device: iPad6,3, os-version: 15.0], [device: iPad8,2, os-version: 15.0], [device: iPad13,4, os-version: 15.0], [device: iPad7,4, os-version: 15.0], [device: iPad8,9, os-version: 15.0], [device: iPad13,7, os-version: 15.0], [device: iPad8,3, os-version: 15.0], [device: iPad8,6, os-version: 15.0], [device: iPad11,1, os-version: 15.0], [device: iPad8,1, os-version: 15.0], [device: iPad13,11, os-version: 15.0], [device: iPad11,3, os-version: 15.0], [device: iPad14,2, os-version: 15.0], [device: iPad8,5, os-version: 15.0], [device: iPad8,12, os-version: 15.0], [device: iPad13,10, os-version: 15.0], [device: MacFamily20,1, os-version: 15.0], [device: iPad7,3, os-version: 15.0], [device: iPad8,11, os-version: 15.0], [device: iPad13,16, os-version: 15.0], [device: iPad13,2, os-version: 15.0], [device: iPad8,10, os-version: 15.0], [device: iPad7,1, os-version: 15.0], [device: iPad8,7, os-version: 15.0], [device: iPad13,8, os-version: 15.0], [device: iPad13,1, os-version: 15.0], [device: iPad13,5, os-version: 15.0], [device: iPad8,4, os-version: 15.0], [device: iPad13,6, os-version: 15.0], [device: iPad14,1, os-version: 15.0], and [device: iPad13,9, os-version: 15.0]
+App + On Demand Resources size: 3.9 MB compressed, 15.7 MB uncompressed
+App size: 3.9 MB compressed, 15.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-C0A81936-895D-459D-AA8E-ADA97D070858.ipa
+Supported variant descriptors: [device: iPhone6,2, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], and [device: iPhone8,4, os-version: 12.2]
+App + On Demand Resources size: 3.9 MB compressed, 15.7 MB uncompressed
+App size: 3.9 MB compressed, 15.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-C542CB06-299F-4414-9767-3BD3069F76D4.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 6.5 MB compressed, 23.4 MB uncompressed
+App size: 6.5 MB compressed, 23.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-E14B961C-6A95-44AD-AB92-16A013AFC2D3.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 15.0] and [device: iPhone11,8, os-version: 15.0]
+App + On Demand Resources size: 4 MB compressed, 15.8 MB uncompressed
+App size: 4 MB compressed, 15.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-E9DA7E67-7598-4116-AEE3-EAE781788931.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.0] and [device: iPhone8,2, os-version: 12.0]
+App + On Demand Resources size: 6.5 MB compressed, 23.4 MB uncompressed
+App size: 6.5 MB compressed, 23.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-EB52E5B1-FD58-47BB-9F14-EFDEC972A034.ipa
+Supported variant descriptors: [device: iPad5,4, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad6,8, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad6,8, os-version: 14.0], [device: iPad11,7, os-version: 14.0], [device: iPad6,12, os-version: 13.0], [device: iPad6,12, os-version: 14.0], [device: iPad6,7, os-version: 14.0], [device: iPad7,11, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad7,5, os-version: 14.0], [device: iPad5,2, os-version: 13.0], [device: iPad7,6, os-version: 14.0], [device: iPad7,12, os-version: 13.0], [device: iPad5,2, os-version: 14.0], [device: iPad5,3, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPad11,6, os-version: 14.0], [device: iPad6,7, os-version: 13.0], [device: iPad5,4, os-version: 13.0], [device: iPad5,3, os-version: 14.0], [device: iPad7,12, os-version: 14.0], [device: iPad7,11, os-version: 14.0], and [device: iPad5,1, os-version: 14.0]
+App + On Demand Resources size: 3.9 MB compressed, 15.7 MB uncompressed
+App size: 3.9 MB compressed, 15.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-F07F401C-1FCB-4F2D-86B4-1290EB65EC2B.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 4 MB compressed, 15.8 MB uncompressed
+App size: 4 MB compressed, 15.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-F2334B27-C040-462E-AA78-2F35DEC8FFE7.ipa
+Supported variant descriptors: [device: iPad6,7, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad4,3, os-version: 12.2], and [device: iPad5,3, os-version: 12.2]
+App + On Demand Resources size: 3.9 MB compressed, 15.7 MB uncompressed
+App size: 3.9 MB compressed, 15.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-F5D6DBC8-905C-44C0-8F8D-D6630BAB1AEA.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 14.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone12,8, os-version: 14.0], and [device: iPhone10,4, os-version: 13.0]
+App + On Demand Resources size: 3.9 MB compressed, 15.7 MB uncompressed
+App size: 3.9 MB compressed, 15.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy-FFCB5F49-FFEB-46A4-BDC3-CB05F6C233D2.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], and [device: iPhone9,3, os-version: 12.0]
+App + On Demand Resources size: 6.4 MB compressed, 23.4 MB uncompressed
+App size: 6.4 MB compressed, 23.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: RoFDelicacy.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 7.7 MB compressed, 24.7 MB uncompressed
+App size: 7.7 MB compressed, 24.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
