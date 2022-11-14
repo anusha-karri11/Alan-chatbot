@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RoFDelicacy.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>CC9B03BA22AD5A7736A0F73F901C43942D7B6723</string>
+				<key>dateExpires</key>
+				<string>24/08/23</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NB8S538PSV.com.deloitte.mobile.rofdelicacy</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NB8S538PSV</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>RoFDelicacy.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c2e4f2eb-bd5f-48ce-a1e1-cb8e6f0a92e6</string>
+				<key>dateExpires</key>
+				<string>24/08/23</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.deloitte.mobile.rofdelicacy</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NB8S538PSV</string>
+				<key>name</key>
+				<string>Deloitte LLP</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
